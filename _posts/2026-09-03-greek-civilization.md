@@ -2,7 +2,7 @@
 title: 测试文本哦
 date: 2026-09-03 15:00:00 +0800
 categories: [笔记]
-tags: [哲学, 笔记，历史]
+tags: [哲学, 笔记, 历史]
 description: 测试性文本
 ---
   
